@@ -1,0 +1,136 @@
+.mat{
+    display: flex;
+    gap: 4em;
+    padding-left: 30%;
+    font-weight: bold;
+}
+.red{
+    display: flex;
+    padding-left: 5%;
+}
+.blue{
+    display: flex;
+}
+.a{
+    font-weight: bold;
+}
+.b{
+    font-weight: bold;
+    color: red;
+}
+.ship{
+    font-size: 250%;
+    font-weight: bold;
+    padding-left: 5%;
+}
+.mount{
+    display: flex;
+    background-color: rgb(197, 188, 179);
+    border-radius: 1em;
+}
+.move{
+    padding-left: 60%;
+    width: 180%;
+}
+.vain{
+    color: rgb(34, 20, 2);
+    font-weight: bold;
+}
+.out{
+    padding: 16px 18px;
+    background-color: rgb(233, 73, 73);
+    color: white;
+    font-weight: bold;
+    border-radius: 1em;
+    margin-left: 7%;
+}
+.earth{
+    display: flex;
+    gap: 22em;
+    padding-left: 10%;
+}
+.yellow{
+    width: 175%; 
+}
+.orange{
+    width: 160%;
+}
+.jan{
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+    color: rgb(68, 46, 46);
+}
+.w{
+    padding: 8px 16px;
+    background-color: rgb(223, 79, 79);
+    color: white;
+    border-radius: 1em;
+}
+.x{
+    padding: 8px 16px;
+    background-color: rgb(223, 79, 79);
+    color: white;
+    border-radius: 1em;
+}
+.los{
+    font-size: 150%;
+}
+.win{
+    font-size: 150%;
+}
+.map{
+    display: flex;
+    gap: 20em;
+    padding-left: 10%;
+}
+.bat{
+    width: 160%;
+}
+.hut{
+    width: 140%;
+}
+.m{
+    font-size: 150%;
+}
+.n{
+    padding: 8px 16px;
+    background-color: rgb(223, 79, 79);
+    color: white;
+    border-radius: 1em;
+}
+.o{
+    font-size: 150%;
+}
+.p{
+    padding: 8px 16px;
+    background-color: rgb(223, 79, 79);
+    color: white;
+    border-radius: 1em;
+}
+.mon{
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+    color: rgb(68, 46, 46);
+}
+.earth{
+    background-color: rgb(199, 185, 167);
+    border-radius: 1em;
+}
+.map{
+    background-color: rgb(163, 151, 139);
+    border-radius: 1em;
+}
+.hill{
+    background-color: lightgrey;
+}
+.mall{
+    display: flex;
+    padding-left: 20%;
+    gap: 8em;
+}
+ul{
+    list-style: none;
+    line-height: 40px;
+}
